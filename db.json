@@ -1,0 +1,100 @@
+{
+	"users": [
+		{
+			"name": "John",
+			"email": "john@gmail.com",
+			"phone": "9374902043",
+			"address": "UK",
+			"id": 3,
+			"status": "Active"
+		},
+		{
+			"name": "Kevin",
+			"email": "kevin@gmail.com",
+			"phone": "4895792355",
+			"address": "Singapore",
+			"id": 4,
+			"status": "Inactive"
+		},
+		{
+			"name": "Floyd",
+			"email": "floyd@gmail.com",
+			"phone": "1359347236",
+			"address": "Iraq",
+			"id": 5,
+			"status": "Active"
+		},
+		{
+			"name": "Betty",
+			"email": "betty@gmail.com",
+			"phone": "8935834623",
+			"address": "China",
+			"id": 6,
+			"status": "Inactive"
+		},
+		{
+			"name": "David",
+			"email": "david@gmail.com",
+			"phone": "3024357293",
+			"address": "Canada",
+			"id": 7,
+			"status": "Active"
+		},
+		{
+			"name": "George",
+			"email": "george@gmail.com",
+			"phone": "5387375623",
+			"address": "Mexico",
+			"id": 8,
+			"status": "Inactive"
+		},
+		{
+			"name": "Malcolm",
+			"email": "malcolm@gmail.com",
+			"phone": "4582464634",
+			"address": "Nigeria",
+			"id": 9,
+			"status": "Active"
+		},
+		{
+			"name": "Malome",
+			"email": "malome@gmail.com",
+			"phone": "5870947364",
+			"address": "Lesotho",
+			"id": 10,
+			"status": "Inactive"
+		},
+		{
+			"name": "Alice",
+			"email": "alice@gmail.com",
+			"phone": "7534636008",
+			"address": "Cape Verde",
+			"id": 11,
+			"status": "Active"
+		},
+		{
+			"name": "Eunice",
+			"email": "eunice@gmail.com",
+			"phone": "6582363553",
+			"address": "Ghana",
+			"id": 12,
+			"status": "Inactive"
+		},
+		{
+			"name": "Peace",
+			"email": "peace@gmail.com",
+			"phone": "0927395839",
+			"address": "Eritrea",
+			"id": 13,
+			"status": "Active"
+		},
+		{
+			"name": "Travis",
+			"email": "travis@gmail.com",
+			"phone": "0937285367",
+			"address": "Sudan",
+			"id": 14,
+			"status": "Inactive"
+		},
+	]
+}

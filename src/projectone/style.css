@@ -1,0 +1,57 @@
+.add-contact {
+	text-align: left;
+	margin-left:2%;
+}
+
+.form-field {
+	text-align: left;
+}
+
+.form-field button {
+	background: skyblue;
+	padding: 1% 2% 1% 2%;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+}
+
+.form-field input {
+	padding: 1%;
+	border-radius: 5px;
+	margin-left: 1%;
+	margin-top:1%;
+	margin-bottom: 1%;
+	width: 50%;
+}
+
+.form-field label {
+	font-weight: 700;
+}
+
+.contact-list {
+	text-align: left;
+	margin-left: 2%;
+	margin-top: 5%
+}
+
+
+.item-sub {
+	width: 70%;
+	float:left;
+	margin-bottom: 2px solid #000;
+}
+
+.item-sub p {
+	margin:0;
+}
+
+.item button {
+	text-transform: capitalize;
+	background: red;
+	padding: 2% 5% 2% 5%;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+}
